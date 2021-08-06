@@ -1,0 +1,258 @@
+display_name,c_emission_intensity,unit,io_category,hc_main_category,hc_subcategory,c_emission_source,portion_kg,portion_increment_stepsize,portion_default,portion_source
+Spirits,3.144,kg,ALCOHOLIC BEVERAGES,Beverages,Alcoholic,http://web.agrsci.dk/djfpublikation/djfpdf/DCArapport158.pdf,0.035,1,FALSE,
+Wine,2.344,kg,ALCOHOLIC BEVERAGES,Beverages,Alcoholic,http://web.agrsci.dk/djfpublikation/djfpdf/DCArapport158.pdf,0.15,1,FALSE,
+Beer,1.123,kg,ALCOHOLIC BEVERAGES,Beverages,Alcoholic,http://web.agrsci.dk/djfpublikation/djfpdf/DCArapport158.pdf,0.285,1,FALSE,
+Rice,2.550,kg,Cereals and cereal products (ND),"Breads, Cereals and Other Grain Products","Rice, Pasta and Other Grains",https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Sesame (oil),2.334,kg,Cereals and cereal products (ND),Fats and Oils,Oils,https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,,,,
+Dry beans,2.000,kg,Cereals and cereal products (ND),Vegetables and Vegetable Products,Vegetables,http://static.ewg.org/reports/2011/meateaters/pdf/methodology_ewg_meat_eaters_guide_to_health_and_climate_2011.pdf,,,,
+Tofu,2.000,kg,Cereals and cereal products (ND),"Legumes, Nuts and Seeds",Meatless Products,http://static.ewg.org/reports/2011/meateaters/pdf/methodology_ewg_meat_eaters_guide_to_health_and_climate_2011.pdf,,,,
+Sunflower seed,1.410,kg,Cereals and cereal products (ND),"Legumes, Nuts and Seeds",Seeds,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Pasta,1.200,kg,Cereals and cereal products (ND),"Breads, Cereals and Other Grain Products","Rice, Pasta and Other Grains",From https://naturerhverv.dk/fileadmin/user_upload/NaturErhverv/Filer/Tvaergaaende/Foedevarernes_klimaaftryk_tabel_1.pdf,,,,
+Quinoa,1.150,kg,Cereals and cereal products (ND),"Breads, Cereals and Other Grain Products","Rice, Pasta and Other Grains",https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+White bread,1.054,kg,Cereals and cereal products (ND),"Breads, Cereals and Other Grain Products",Breads and Buns,From http://web.agrsci.dk/djfpublikation/djfpdf/DCArapport158.pdf,,,,
+Lentils,1.030,kg,Cereals and cereal products (ND),"Legumes, Nuts and Seeds","Beans, Peas and Lentils",https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Rye bread,0.930,kg,Cereals and cereal products (ND),"Breads, Cereals and Other Grain Products",Breads and Buns,From http://web.agrsci.dk/djfpublikation/djfpdf/DCArapport158.pdf,,,,
+Sesame seeds,0.880,kg,Cereals and cereal products (ND),"Legumes, Nuts and Seeds",Seeds,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Morning cereals,0.864,kg,Cereals and cereal products (ND),"Breads, Cereals and Other Grain Products",Breakfast Cereals,From http://web.agrsci.dk/djfpublikation/djfpdf/DCArapport158.pdf,,,,
+Chick peas,0.770,kg,Cereals and cereal products (ND),"Legumes, Nuts and Seeds","Beans, Peas and Lentils",https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Wheat,0.520,kg,Cereals and cereal products (ND),"Breads, Cereals and Other Grain Products",Flour and Brans,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Soybean,0.490,kg,Cereals and cereal products (ND),"Legumes, Nuts and Seeds","Beans, Peas and Lentils",https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Corn,0.470,kg,Cereals and cereal products (ND),Vegetables and Vegetable Products,Vegetables,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Barley,0.430,kg,Cereals and cereal products (ND),"Breads, Cereals and Other Grain Products","Rice, Pasta and Other Grains",https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Butter beans,0.390,kg,Cereals and cereal products (ND),,,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Oats,0.380,kg,Cereals and cereal products (ND),"Breads, Cereals and Other Grain Products",Breads and Buns,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Peas,0.380,kg,Cereals and cereal products (ND),Vegetables and Vegetable Products,Vegetables,https://www.sciencedirect.com/science/article/pii/S0959652616303584,0.045,1,,https://www.who.int/dietphysicalactivity/publications/f&v_intake_measurement.pdf
+Rye,0.380,kg,Cereals and cereal products (ND),"Breads, Cereals and Other Grain Products",Flour and Brans,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Wheat (flour),0.358,kg,Cereals and cereal products (ND),"Breads, Cereals and Other Grain Products",Flour and Brans,https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,,,,
+Green beans,0.310,kg,Cereals and cereal products (ND),Vegetables and Vegetable Products,Vegetables,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Lobster,27.800,kg,Fish and other seafood (ND),Fish and Shellfish,Shellfish,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Sole,20.860,kg,Fish and other seafood (ND),Fish and Shellfish,Fish,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Turbot,14.510,kg,Fish and other seafood (ND),Fish and Shellfish,Fish,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Megrim,14.150,kg,Fish and other seafood (ND),,,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Swordfish,12.840,kg,Fish and other seafood (ND),Fish and Shellfish,Fish,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Anglerfish,12.290,kg,Fish and other seafood (ND),Fish and Shellfish,Fish,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Farmed salmon,11.900,kg,Fish and other seafood (ND),Fish and Shellfish,Fish,http://static.ewg.org/reports/2011/meateaters/pdf/methodology_ewg_meat_eaters_guide_to_health_and_climate_2011.pdf,,,,
+Porbeagle,11.440,kg,Fish and other seafood (ND),,,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Shrimp (frozen),10.500,kg,Fish and other seafood (ND),Fish and Shellfish,Shellfish,https://naturerhverv.dk/fileadmin/user_upload/NaturErhverv/Filer/Tvaergaaende/Foedevarernes_klimaaftryk_tabel_1.pdf,,,,
+Hake,9.770,kg,Fish and other seafood (ND),,,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Mussels,9.510,kg,Fish and other seafood (ND),Fish and Shellfish,Shellfish,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Brill,8.410,kg,Fish and other seafood (ND),,,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Prawns/shrimp,7.800,kg,Fish and other seafood (ND),Fish and Shellfish,Shellfish,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Octopus/squid/cuttlefish,7.130,kg,Fish and other seafood (ND),,,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Rock fish,6.940,kg,Fish and other seafood (ND),Fish and Shellfish,Fish,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Pomfret,6.630,kg,Fish and other seafood (ND),,,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Common ling,6.450,kg,Fish and other seafood (ND),,,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Flatfish,6.200,kg,Fish and other seafood (ND),Fish and Shellfish,Fish,From https://naturerhverv.dk/fileadmin/user_upload/NaturErhverv/Filer/Tvaergaaende/Foedevarernes_klimaaftryk_tabel_1.pdf,,,,
+Canned tuna,6.100,kg,Fish and other seafood (ND),Fish and Shellfish,Fish,http://static.ewg.org/reports/2011/meateaters/pdf/methodology_ewg_meat_eaters_guide_to_health_and_climate_2011.pdf,,,,
+Trout,4.200,kg,Fish and other seafood (ND),Fish and Shellfish,Fish,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Eel,3.880,kg,Fish and other seafood (ND),Fish and Shellfish,Fish,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Cod,3.510,kg,Fish and other seafood (ND),Fish and Shellfish,Fish,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Fish (all species),3.490,kg,Fish and other seafood (ND),Fish and Shellfish,Fish,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Salmon,3.470,kg,Fish and other seafood (ND),Fish and Shellfish,Fish,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Haddock,3.410,kg,Fish and other seafood (ND),Fish and Shellfish,Fish,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Sea bass,3.270,kg,Fish and other seafood (ND),Fish and Shellfish,Fish,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Shrimp (fresh),3.000,kg,Fish and other seafood (ND),Fish and Shellfish,Shellfish,https://naturerhverv.dk/fileadmin/user_upload/NaturErhverv/Filer/Tvaergaaende/Foedevarernes_klimaaftryk_tabel_1.pdf,,,,
+Whiting,2.660,kg,Fish and other seafood (ND),,,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Tuna,2.150,kg,Fish and other seafood (ND),Fish and Shellfish,Fish,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Mackerel,1.800,kg,Fish and other seafood (ND),Fish and Shellfish,Fish,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Carp,1.760,kg,Fish and other seafood (ND),,,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Pollock,1.610,kg,Fish and other seafood (ND),Fish and Shellfish,Fish,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Herring,1.160,kg,Fish and other seafood (ND),Fish and Shellfish,Fish,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Clams,0.100,kg,Fish and other seafood (ND),Fish and Shellfish,Shellfish,From https://naturerhverv.dk/fileadmin/user_upload/NaturErhverv/Filer/Tvaergaaende/Foedevarernes_klimaaftryk_tabel_1.pdf,,,,
+Vanilla,13.710,kg,Fruits and nuts (ND),,,http://assets.wwf.org.uk/downloads/how_low_report_1.pdf,,,,
+Peanut butter,2.300,kg,Fruits and nuts (ND),"Legumes, Nuts and Seeds",Peanuts,http://static.ewg.org/reports/2011/meateaters/pdf/methodology_ewg_meat_eaters_guide_to_health_and_climate_2011.pdf,0.121540673,,,
+Nuts,2.300,kg,Fruits and nuts (ND),"Legumes, Nuts and Seeds",Nuts,http://static.ewg.org/reports/2011/meateaters/pdf/methodology_ewg_meat_eaters_guide_to_health_and_climate_2011.pdf,0.12996816,,,
+Macadamia nuts,2.057,kg,Fruits and nuts (ND),"Legumes, Nuts and Seeds",Nuts,https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,,,,
+Pecan nuts,2.057,kg,Fruits and nuts (ND),"Legumes, Nuts and Seeds",Nuts,https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,0.119855175,1,TRUE,https://www.yazio.com/de/kalorientabelle/aprikose-frisch.html
+Pine nuts,2.057,kg,Fruits and nuts (ND),"Legumes, Nuts and Seeds",Nuts,https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,0.124911668,1,,https://www.yazio.com/de/kalorientabelle/blaubeeren-frisch.html
+Cinnamon,1.870,kg,Fruits and nuts (ND),,,http://assets.wwf.org.uk/downloads/how_low_report_1.pdf,,,,
+Passion fruit,1.663,kg,Fruits and nuts (ND),,,https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,,,,
+Almonds,1.540,kg,Fruits and nuts (ND),"Legumes, Nuts and Seeds",Nuts,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Pistachios,1.530,kg,Fruits and nuts (ND),"Legumes, Nuts and Seeds",Nuts,https://www.sciencedirect.com/science/article/pii/S0959652616303584,0.126597165,1,,https://www.who.int/dietphysicalactivity/publications/f&v_intake_measurement.pdf
+Rhubarb,1.528,kg,Fruits and nuts (ND),,,https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,0.09,1,,https://www.who.int/dietphysicalactivity/publications/f&v_intake_measurement.pdf
+Coconut,1.521,kg,Fruits and nuts (ND),,,https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,0.08,1,TRUE,https://www.yazio.com/en/foods/coconut-meat.html
+Walnuts,1.510,kg,Fruits and nuts (ND),"Legumes, Nuts and Seeds",Nuts,https://www.sciencedirect.com/science/article/pii/S0959652616303584,0.128282663,1,,https://www.who.int/dietphysicalactivity/publications/f&v_intake_measurement.pdf
+Cashew nut,1.440,kg,Fruits and nuts (ND),"Legumes, Nuts and Seeds",Nuts,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Avocados,1.300,kg,Fruits and nuts (ND),Fruit and Fruit Juices,Fruit,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Hazelnuts,0.970,kg,Fruits and nuts (ND),"Legumes, Nuts and Seeds",Nuts,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Blueberry,0.920,kg,Fruits and nuts (ND),Fruit and Fruit Juices,Fruit,https://www.sciencedirect.com/science/article/pii/S0959652616303584,0.045,1,,https://www.yazio.com/de/kalorientabelle/blaubeeren-frisch.html
+Cranberries,0.920,kg,Fruits and nuts (ND),Fruit and Fruit Juices,Fruit,https://www.sciencedirect.com/science/article/pii/S0959652616303584,0.03,1,TRUE,https://www.yazio.com/de/kalorientabelle/preiselbeeren-frisch.html
+Lychee,0.893,kg,Fruits and nuts (ND),Fruit and Fruit Juices,Fruit,https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,0.06,1,TRUE,https://www.yazio.com/en/foods/lychee.html
+Currants,0.840,kg,Fruits and nuts (ND),,,https://www.sciencedirect.com/science/article/pii/S0959652616303584,0.03,1,TRUE,https://www.yazio.com/de/kalorientabelle/johannisbeeren-schwarz-frisch.html
+Gooseberries,0.840,kg,Fruits and nuts (ND),Fruit and Fruit Juices,Fruit,https://www.sciencedirect.com/science/article/pii/S0959652616303584,0.04,1,TRUE,https://www.yazio.com/de/kalorientabelle/datteln.html
+Raspberries,0.840,kg,Fruits and nuts (ND),Fruit and Fruit Juices,Fruit,https://www.sciencedirect.com/science/article/pii/S0959652616303584,0.114,1,,https://www.who.int/dietphysicalactivity/publications/f&v_intake_measurement.pdf
+Peanuts,0.830,kg,Fruits and nuts (ND),"Legumes, Nuts and Seeds",Peanuts,https://www.sciencedirect.com/science/article/pii/S0959652616303584,0.12322617,,,
+Bananas,0.720,kg,Fruits and nuts (ND),Fruit and Fruit Juices,Fruit,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Grapes (raisins),0.684,kg,Fruits and nuts (ND),Fruit and Fruit Juices,Fruit,https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,,,,
+Mango,0.639,kg,Fruits and nuts (ND),Fruit and Fruit Juices,Fruit,https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,0.168,1,TRUE,https://www.yazio.com/en/foods/mango.html
+Blackberry,0.599,kg,Fruits and nuts (ND),Fruit and Fruit Juices,Fruit,https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,0.076,1,,https://www.who.int/dietphysicalactivity/publications/f&v_intake_measurement.pdf
+Boysenberry,0.599,kg,Fruits and nuts (ND),Fruit and Fruit Juices,Fruit,https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,,,,
+Strawberries,0.580,kg,Fruits and nuts (ND),Fruit and Fruit Juices,Fruit,https://www.sciencedirect.com/science/article/pii/S0959652616303584,0.096,1,,https://www.who.int/dietphysicalactivity/publications/f&v_intake_measurement.pdf
+Plum,0.576,kg,Fruits and nuts (ND),Fruit and Fruit Juices,Fruit,https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,,,,
+Grapefruit,0.510,kg,Fruits and nuts (ND),Fruit and Fruit Juices,Fruit,https://www.sciencedirect.com/science/article/pii/S0959652616303584,0.116,1,,https://www.who.int/dietphysicalactivity/publications/f&v_intake_measurement.pdf
+Pomelo,0.510,kg,Fruits and nuts (ND),,,https://www.sciencedirect.com/science/article/pii/S0959652616303584,0.06,1,TRUE,https://www.yazio.com/de/kalorientabelle/pomelo-frisch.html
+Tangerines,0.510,kg,Fruits and nuts (ND),Fruit and Fruit Juices,Fruit,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Pineapples,0.500,kg,Fruits and nuts (ND),Fruit and Fruit Juices,Fruit,https://www.sciencedirect.com/science/article/pii/S0959652616303584,0.08,1,,https://www.who.int/dietphysicalactivity/publications/f&v_intake_measurement.pdf
+Cantaloupe,0.490,kg,Fruits and nuts (ND),Fruit and Fruit Juices,Fruit,https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,0.069,1,TRUE,https://www.yazio.com/en/foods/cantaloupe-melon.html
+Pomegranate,0.462,kg,Fruits and nuts (ND),Fruit and Fruit Juices,Fruit,https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,0.141,1,,https://www.yazio.com/en/foods/pomegranate.html
+Mandarin,0.450,kg,Fruits and nuts (ND),Fruit and Fruit Juices,Fruit,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Apricot,0.430,kg,Fruits and nuts (ND),Fruit and Fruit Juices,Fruit,https://www.sciencedirect.com/science/article/pii/S0959652616303584,0.025,1,TRUE,https://www.yazio.com/de/kalorientabelle/aprikose-frisch.html
+Figs,0.430,kg,Fruits and nuts (ND),Fruit and Fruit Juices,Fruit,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Nectarines,0.430,kg,Fruits and nuts (ND),Fruit and Fruit Juices,Fruit,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Peaches,0.430,kg,Fruits and nuts (ND),Fruit and Fruit Juices,Fruit,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Chestnuts,0.430,kg,Fruits and nuts (ND),"Legumes, Nuts and Seeds",Nuts,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Cherries,0.390,kg,Fruits and nuts (ND),Fruit and Fruit Juices,Fruit,https://www.sciencedirect.com/science/article/pii/S0959652616303584,0.08,1,TRUE,https://www.yazio.com/en/foods/cherries.html
+Grapes,0.370,kg,Fruits and nuts (ND),Fruit and Fruit Juices,Fruit,https://www.sciencedirect.com/science/article/pii/S0959652616303584,0.07,1,,https://www.who.int/dietphysicalactivity/publications/f&v_intake_measurement.pdf
+Kiwi,0.360,kg,Fruits and nuts (ND),Fruit and Fruit Juices,Fruit,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Orange,0.330,kg,Fruits and nuts (ND),Fruit and Fruit Juices,Fruit,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Dates,0.320,kg,Fruits and nuts (ND),Fruit and Fruit Juices,Fruit,https://www.sciencedirect.com/science/article/pii/S0959652616303584,0.035,1,TRUE,https://www.yazio.com/de/kalorientabelle/datteln.html
+Kumquat,0.320,kg,Fruits and nuts (ND),,,https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,0.095,1,TRUE,https://www.yazio.com/de/kalorientabelle/datteln.html
+Watermelon,0.320,kg,Fruits and nuts (ND),Fruit and Fruit Juices,Fruit,https://www.sciencedirect.com/science/article/pii/S0959652616303584,0.15,1,TRUE,https://www.yazio.com/de/kalorientabelle/wassermelone-frisch.html
+Pears,0.310,kg,Fruits and nuts (ND),Fruit and Fruit Juices,Fruit,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Quinces,0.310,kg,Fruits and nuts (ND),,,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Apples,0.290,kg,Fruits and nuts (ND),Fruit and Fruit Juices,Fruit,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Blackcurrant,0.290,kg,Fruits and nuts (ND),,,https://www.sciencedirect.com/science/article/pii/S0959652616303584,0.04,1,,https://www.who.int/dietphysicalactivity/publications/f&v_intake_measurement.pdf
+Guavas,0.280,kg,Fruits and nuts (ND),Fruit and Fruit Juices,Fruit,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Prunes,0.273,kg,Fruits and nuts (ND),Fruit and Fruit Juices,Fruit,https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,,,,
+Lemons,0.260,kg,Fruits and nuts (ND),Fruit and Fruit Juices,Fruit,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Limes,0.260,kg,Fruits and nuts (ND),Fruit and Fruit Juices,Fruit,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Melons,0.250,kg,Fruits and nuts (ND),,,https://www.sciencedirect.com/science/article/pii/S0959652616303584,0.151,1,,https://www.who.int/dietphysicalactivity/publications/f&v_intake_measurement.pdf
+Papaya,0.216,kg,Fruits and nuts (ND),Fruit and Fruit Juices,Fruit,https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,0.125,1,TRUE,https://www.yazio.com/en/foods/papaya.html
+Buffalo,60.430,kg,"Live animals, meat and other parts of slaughtered land animals (ND)",,,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Beef,26.610,kg,"Live animals, meat and other parts of slaughtered land animals (ND)",Meat and Poultry,Beef,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Lamb,25.580,kg,"Live animals, meat and other parts of slaughtered land animals (ND)",Meat and Poultry,Lamb,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Turkey,7.170,kg,"Live animals, meat and other parts of slaughtered land animals (ND)",Meat and Poultry,Poultry and Game Birds,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Pork,5.740,kg,"Live animals, meat and other parts of slaughtered land animals (ND)",Meat and Poultry,Pork,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Rabbit,4.700,kg,"Live animals, meat and other parts of slaughtered land animals (ND)",Meat and Poultry,Game Meats and Other Meats,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Ham,4.453,kg,"Live animals, meat and other parts of slaughtered land animals (ND)",Meat and Poultry,Processed Meat Products,https://link.springer.com/article/10.1007/s11367-018-1460-x#MOESM1,,,,
+Chicken,3.650,kg,"Live animals, meat and other parts of slaughtered land animals (ND)",Meat and Poultry,Poultry and Game Birds,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Duck,3.090,kg,"Live animals, meat and other parts of slaughtered land animals (ND)",Meat and Poultry,Poultry and Game Birds,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Eggs,3.460,kg,"Milk, other dairy products and eggs (ND)",Eggs and Egg Dishes,,https://www.sciencedirect.com/science/article/pii/S0959652616303584,0.057,1,TRUE,https://web.extension.illinois.edu/eggs/res16-egg.html
+Cheddar,13.020,kg,"Milk, other dairy products and eggs (ND)",Dairy Foods and Other Related Products,Cheese,https://www.researchgate.net/publication/309672245_Protein_versus_global_warming_potential_-_a_meta---analysis_of_the_global_warming_potential_and_protein_ratios_for_human_food,,,,
+Butter,9.250,kg,"Milk, other dairy products and eggs (ND)",Fats and Oils,Butter and Margarine,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Parmesan,8.790,kg,"Milk, other dairy products and eggs (ND)",Dairy Foods and Other Related Products,Cheese,https://www.researchgate.net/publication/309672245_Protein_versus_global_warming_potential_-_a_meta---analysis_of_the_global_warming_potential_and_protein_ratios_for_human_food,,,,
+Cheese,8.550,kg,"Milk, other dairy products and eggs (ND)",Dairy Foods and Other Related Products,Cheese,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Mozzarella,7.500,kg,"Milk, other dairy products and eggs (ND)",Dairy Foods and Other Related Products,Cheese,https://www.researchgate.net/publication/309672245_Protein_versus_global_warming_potential_-_a_meta---analysis_of_the_global_warming_potential_and_protein_ratios_for_human_food,,,,
+Cream,5.640,kg,"Milk, other dairy products and eggs (ND)",Dairy Foods and Other Related Products,Cream,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Ice cream (vanilla premium),3.940,kg,"Milk, other dairy products and eggs (ND)",Sweets and Sugars,Frozen Desserts,https://www.sciencedirect.com/science/article/pii/S0959652618332633,0.068,1,,
+Ice cream (chocolate premium),3.910,kg,"Milk, other dairy products and eggs (ND)",Sweets and Sugars,Frozen Desserts,https://www.sciencedirect.com/science/article/pii/S0959652618332633,0.068,1,,
+Ice cream (vanilla regular),3.750,kg,"Milk, other dairy products and eggs (ND)",Sweets and Sugars,Frozen Desserts,https://www.sciencedirect.com/science/article/pii/S0959652618332633,0.068,1,,
+Ice cream (chocolate regular),3.660,kg,"Milk, other dairy products and eggs (ND)",Sweets and Sugars,Frozen Desserts,https://www.sciencedirect.com/science/article/pii/S0959652618332633,0.068,1,,
+Milk yogurt,1.310,kg,"Milk, other dairy products and eggs (ND)",Dairy Foods and Other Related Products,Yogourts and Fermented Milk Products,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Milk,1.290,kg,"Milk, other dairy products and eggs (ND)",Dairy Foods and Other Related Products,Milk and Substitutes,https://www.sciencedirect.com/science/article/pii/S0959652616303584,0.225,1,FALSE,
+Soft drink,1.035,kg,NON-ALCOHOLIC BEVERAGES,Beverages,Carbonated Drinks,http://web.agrsci.dk/djfpublikation/djfpdf/DCArapport158.pdf,0.225,1,FALSE,
+Juice,0.930,kg,NON-ALCOHOLIC BEVERAGES,Beverages,Fruit Flavoured Drinks,http://web.agrsci.dk/djfpublikation/djfpdf/DCArapport158.pdf,0.225,1,FALSE,
+Soy milk,0.750,kg,NON-ALCOHOLIC BEVERAGES,Dairy Foods and Other Related Products,Milk and Substitutes,https://www.sciencedirect.com/science/article/pii/S0959652616303584,0.225,1,FALSE,
+Almond milk,0.420,kg,NON-ALCOHOLIC BEVERAGES,Dairy Foods and Other Related Products,Milk and Substitutes,https://www.sciencedirect.com/science/article/pii/S0959652616303584,0.225,1,FALSE,
+Coconut milk,0.420,kg,NON-ALCOHOLIC BEVERAGES,Dairy Foods and Other Related Products,Milk and Substitutes,https://www.sciencedirect.com/science/article/pii/S0959652616303584,0.225,1,FALSE,
+Coffee,0.330,kg,NON-ALCOHOLIC BEVERAGES,Beverages,"Coffee, Tea and Substitutes",http://web.agrsci.dk/djfpublikation/djfpdf/DCArapport158.pdf,0.15,1,FALSE,
+Water (bottled),0.215,kg,NON-ALCOHOLIC BEVERAGES,Beverages,Other Beverages,http://web.agrsci.dk/djfpublikation/djfpdf/DCArapport158.pdf,0.225,1,FALSE,
+Tea,0.184,kg,NON-ALCOHOLIC BEVERAGES,Beverages,"Coffee, Tea and Substitutes",http://web.agrsci.dk/djfpublikation/djfpdf/DCArapport158.pdf,0.15,1,FALSE,
+Water (tap),0.001,kg,NON-ALCOHOLIC BEVERAGES,Beverages,Other Beverages,http://web.agrsci.dk/djfpublikation/djfpdf/DCArapport158.pdf,0.225,1,FALSE,
+Yeast,0.960,kg,Ready-made food and other food products n.e.c. (ND),Miscellaneous,,https://link.springer.com/article/10.1007/s11367-018-1460-x#MOESM1,,,,
+Yeast,0.960,kg,Ready-made food and other food products n.e.c. (ND),Miscellaneous,,https://link.springer.com/article/10.1007/s11367-018-1460-x#MOESM1,,,,
+Salt,0.300,kg,Ready-made food and other food products n.e.c. (ND),Miscellaneous,,https://link.springer.com/article/10.1007/s11367-018-1460-x#MOESM1,,,,
+Salt,0.300,kg,Ready-made food and other food products n.e.c. (ND),Miscellaneous,,https://link.springer.com/article/10.1007/s11367-018-1460-x#MOESM1,,,,
+Baking soda,0.026,kg,Ready-made food and other food products n.e.c. (ND),Miscellaneous,,https://epdturkey.org/wp-content/uploads/eti_soda_iso_14025.pdf,,,,
+Baking soda,0.026,kg,Ready-made food and other food products n.e.c. (ND),Miscellaneous,,https://epdturkey.org/wp-content/uploads/eti_soda_iso_14025.pdf,,,,
+Cocoa powder,33.647,kg,"Sugar, confectionery and desserts (ND)",Dairy Foods and Other Related Products,Milk Beverages,https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,,,,
+Chocolate,11.250,kg,"Sugar, confectionery and desserts (ND)",Sweets and Sugars,Chocolate Bars,https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,,,,
+Maple syrup,6.754,kg,"Sugar, confectionery and desserts (ND)",Sweets and Sugars,Syrup and Molasses,https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,1.34,0.05,,http://convert-to.com/571/maple-syrup-amounts-conversion-plus-nutritional-facts.html
+Honey,2.440,kg,"Sugar, confectionery and desserts (ND)",Sweets and Sugars,"Sugar, Honey and Substitutes",https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,,,,
+Sugar (sugarcane),0.700,kg,"Sugar, confectionery and desserts (ND)",Sweets and Sugars,"Sugar, Honey and Substitutes",https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,,,,
+Sugar (beet),0.391,kg,"Sugar, confectionery and desserts (ND)",Sweets and Sugars,"Sugar, Honey and Substitutes",https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,,,,
+Nutmeg,4.820,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",,,http://assets.wwf.org.uk/downloads/how_low_report_1.pdf,,,,
+Vegetable oil,3.740,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",Fats and Oils,Oils,https://link.springer.com/article/10.1007/s11367-018-1460-x#MOESM1,,,,
+Olive (oil),3.206,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",Fats and Oils,Oils,https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,,,,
+Basil (dried),2.495,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",,,https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,,,,
+Broccoli,2.000,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",Vegetables and Vegetable Products,Vegetables,http://static.ewg.org/reports/2011/meateaters/pdf/methodology_ewg_meat_eaters_guide_to_health_and_climate_2011.pdf,0.054,1,,https://www.who.int/dietphysicalactivity/publications/f&v_intake_measurement.pdf
+Eggplants,1.350,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",Vegetables and Vegetable Products,Vegetables,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Vinegar,1.327,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",,,https://link.springer.com/article/10.1007/s11367-018-1460-x#MOESM1,,,,
+Vegetables,1.320,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",Vegetables and Vegetable Products,Vegetables,https://orbit.dtu.dk/ws/files/110722384/Climate_friendly_dietary_guidelines.pdf,,,,
+Ginger,0.880,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",,,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Horseradish,0.880,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",Vegetables and Vegetable Products,Vegetables,https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,,,,
+Asparagus,0.830,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",Vegetables and Vegetable Products,Vegetables,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Tomatoe ketchup,0.747,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",Miscellaneous,Condiments,https://link.springer.com/article/10.1007/s11367-018-1460-x#MOESM1,,,,
+Peppers,0.660,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",Vegetables and Vegetable Products,Vegetables,https://www.sciencedirect.com/science/article/pii/S0959652616303584,0.02,1,,https://www.who.int/dietphysicalactivity/publications/f&v_intake_measurement.pdf
+Olives,0.630,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",Miscellaneous,Condiments,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Garlic,0.570,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",,,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Spinach,0.540,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",Vegetables and Vegetable Products,Vegetables,https://www.sciencedirect.com/science/article/pii/S0959652616303584,0.097,1,,https://www.who.int/dietphysicalactivity/publications/f&v_intake_measurement.pdf
+Brussels sprouts,0.490,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",Vegetables and Vegetable Products,Vegetables,https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,0.056,1,,https://www.who.int/dietphysicalactivity/publications/f&v_intake_measurement.pdf
+Artichokes,0.480,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",Vegetables and Vegetable Products,Vegetables,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Fennel,0.480,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",,,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Cabbage,0.450,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",Vegetables and Vegetable Products,Vegetables,https://www.sciencedirect.com/science/article/pii/S0959652616303584,0.09,1,,https://www.who.int/dietphysicalactivity/publications/f&v_intake_measurement.pdf
+Cauliflowers,0.450,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",Vegetables and Vegetable Products,Vegetables,https://www.sciencedirect.com/science/article/pii/S0959652616303584,0.06,1,,https://www.who.int/dietphysicalactivity/publications/f&v_intake_measurement.pdf
+Leek,0.450,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",Vegetables and Vegetable Products,Vegetables,https://www.sciencedirect.com/science/article/pii/S0959652616303584,0.067,1,,https://www.who.int/dietphysicalactivity/publications/f&v_intake_measurement.pdf
+Tomatoes,0.450,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",Vegetables and Vegetable Products,Vegetables,https://www.sciencedirect.com/science/article/pii/S0959652616303584,0.085,1,,https://www.who.int/dietphysicalactivity/publications/f&v_intake_measurement.pdf
+Sweet potatoes,0.302,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",Vegetables and Vegetable Products,Vegetables,https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,,,,
+Rutabaga,0.290,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",Vegetables and Vegetable Products,Vegetables,https://www.sciencedirect.com/science/article/pii/S0959652616303584,0.047,1,,https://www.who.int/dietphysicalactivity/publications/f&v_intake_measurement.pdf
+Shallot,0.275,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",,,https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,,,,
+Mushrooms,0.270,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",Vegetables and Vegetable Products,Vegetables,https://www.sciencedirect.com/science/article/pii/S0959652616303584,0.04,1,,https://www.who.int/dietphysicalactivity/publications/f&v_intake_measurement.pdf
+Cilantro,0.261,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",,,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Pumpkin,0.250,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",Vegetables and Vegetable Products,Vegetables,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Parsnip,0.243,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",Vegetables and Vegetable Products,Vegetables,https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,0.042,1,,https://www.who.int/dietphysicalactivity/publications/f&v_intake_measurement.pdf
+Beetroot,0.240,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",Vegetables and Vegetable Products,Vegetables,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Parsley,0.232,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",,,https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,,,,
+Cucumbers,0.230,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",Vegetables and Vegetable Products,Vegetables,https://www.sciencedirect.com/science/article/pii/S0959652616303584,0.024,1,,https://www.who.int/dietphysicalactivity/publications/f&v_intake_measurement.pdf
+Basil (fresh),0.221,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",,,https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,,,,
+Chive,0.221,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",,,https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,,,,
+Dill,0.221,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",Miscellaneous,Condiments,https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,,,,
+Lettuce,0.220,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",Vegetables and Vegetable Products,Vegetables,https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,0.024,1,,https://www.who.int/dietphysicalactivity/publications/f&v_intake_measurement.pdf
+Turmeric,0.213,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",,,https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,,,,
+Courgette,0.210,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",,,https://www.sciencedirect.com/science/article/pii/S0959652616303584,0.06,1,,https://www.who.int/dietphysicalactivity/publications/f&v_intake_measurement.pdf
+Zucchini,0.210,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",Vegetables and Vegetable Products,Vegetables,https://www.sciencedirect.com/science/article/pii/S0959652616303584,0.06,1,,https://www.who.int/dietphysicalactivity/publications/f&v_intake_measurement.pdf
+Carrots,0.200,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",Vegetables and Vegetable Products,Vegetables,https://www.sciencedirect.com/science/article/pii/S0959652616303584,0.061,1,,https://www.who.int/dietphysicalactivity/publications/f&v_intake_measurement.pdf
+Kale,0.193,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",Vegetables and Vegetable Products,Vegetables,https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,,,,
+Celery,0.180,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",Vegetables and Vegetable Products,,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Potatoes,0.180,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",Vegetables and Vegetable Products,Vegetables,https://www.sciencedirect.com/science/article/pii/S0959652616303584,,,,
+Onion,0.170,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",Vegetables and Vegetable Products,Vegetables,https://www.sciencedirect.com/science/article/pii/S0959652616303584,0.046,1,,https://www.who.int/dietphysicalactivity/publications/f&v_intake_measurement.pdf
+Green onion,0.085,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",Vegetables and Vegetable Products,Vegetables,https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,,,,
+Scallion,0.085,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",Vegetables and Vegetable Products,Vegetables,https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,,,,
+Endive,0.065,kg,"Vegetables, tubers, plantains, cooking bananas and pulses (ND)",Vegetables and Vegetable Products,Vegetables,https://iopscience.iop.org/1748-9326/13/4/044004/media/ERL_044004_SD.pdf,,,,
+Clementines,0.300,kg,Fruits and nuts (ND),Fruit and Fruit Juices,Fruit,https://www.visualcapitalist.com/visualising-the-greenhouse-gas-impact-of-each-food/,,,,
+Deli meats ,9.600,kg,"Live animals, meat and other parts of slaughtered land animals (ND)",Meat and Poultry,Processed Meat Products,https://www.nature.com/articles/s41598-019-56924-8#MOESM1,,,,
+Bacon,9.600,,"Live animals, meat and other parts of slaughtered land animals (ND)",Meat and Poultry,Processed Meat Products,,,,,
+Steak,26.400,kg,"Live animals, meat and other parts of slaughtered land animals (ND)",Meat and Poultry,Beef,https://www.nature.com/articles/s41598-019-56924-8#MOESM1,,,,
+Hot dogs,15.000,kg,"Live animals, meat and other parts of slaughtered land animals (ND)",Meat and Poultry,Processed Meat Products,https://www.nature.com/articles/s41598-019-56924-8#MOESM1,,,,
+Hamburger (beef),24.000,kg,"Live animals, meat and other parts of slaughtered land animals (ND)",Meat and Poultry,Beef,https://www.nature.com/articles/s41598-019-56924-8#MOESM1,,,,
+Ground sausage,15.000,kg,"Live animals, meat and other parts of slaughtered land animals (ND)",Meat and Poultry,Processed Meat Products,https://www.nature.com/articles/s41598-019-56924-8#MOESM1,,,,
+Cream cheese,2.200,kg,"Milk, other dairy products and eggs (ND)",Dairy Foods and Other Related Products,Cheese,https://www.sciencedirect.com/science/article/pii/S0022030213004797,,,,
+"Skimmed milk, 0.5%",1.200,kg,"Milk, other dairy products and eggs (ND)",Dairy Foods and Other Related Products,Milk and Substitutes,https://www.nature.com/articles/s41598-019-56924-8#MOESM1,,,,
+"Semi-skimmed milk, 1.5%",1.300,kg,"Milk, other dairy products and eggs (ND)",Dairy Foods and Other Related Products,Milk and Substitutes,https://www.nature.com/articles/s41598-019-56924-8#MOESM1,,,,
+"Whole milk, 3% ",1.500,kg,"Milk, other dairy products and eggs (ND)",Dairy Foods and Other Related Products,Milk and Substitutes,https://www.nature.com/articles/s41598-019-56924-8#MOESM1,,,,
+Bagel,0.700,kg,Cereals and cereal products (ND),"Breads, Cereals and Other Grain Products",Breads and Buns,https://www.nature.com/articles/s41598-019-56924-8#MOESM1,,,,
+Cookies,1.200,kg,"Sugar, confectionery and desserts (ND)",Baked Goods,Cookies,https://www.nature.com/articles/s41598-019-56924-8#MOESM1,,,,
+Chips,1.800,kg,"Sugar, confectionery and desserts (ND)",Snacks,Chips,https://www.nature.com/articles/s41598-019-56924-8#MOESM1,,,,
+Cakes,1.200,kg,"Sugar, confectionery and desserts (ND)",Baked Goods,Cakes,https://www.nature.com/articles/s41598-019-56924-8#MOESM1,,,,
+Baking powder,1.170,kg,Ready-made food and other food products n.e.c. (ND),Miscellaneous,,https://www.winnipeg.ca/finance/findata/matmgt/documents/2012/682-2012/682-2012_Appendix_H-WSTP_South_End_Plant_Process_Selection_Report/Appendix%207.pdf,,,,
+Frozen fruit,1.582,kg,Ready-made food and other food products n.e.c. (ND),,,http://bfff.co.uk/wp-content/uploads/2013/06/Carbon-Emissions-from-Chilled-Frozen-Report-Sept-12.pdf,,,,
+Frozen pizza,1.582,kg,Ready-made food and other food products n.e.c. (ND),,,http://bfff.co.uk/wp-content/uploads/2013/06/Carbon-Emissions-from-Chilled-Frozen-Report-Sept-12.pdf,,,,
+Frozen French fries,1.582,kg,Ready-made food and other food products n.e.c. (ND),,,http://bfff.co.uk/wp-content/uploads/2013/06/Carbon-Emissions-from-Chilled-Frozen-Report-Sept-12.pdf,,,,
+Pizza,4.300,kg,Ready-made food and other food products n.e.c. (ND),Fast Foods,Pizza,https://www.nature.com/articles/s41598-019-56924-8#MOESM1,,,,
+Waffles,1.500,kg,Cereals and cereal products (ND),"Breads, Cereals and Other Grain Products","Pancakes, Waffles and French Toast",https://www.nature.com/articles/s41598-019-56924-8#MOESM1,,,,
+Soup,0.900,kg,Ready-made food and other food products n.e.c. (ND),Soup,Ready-to-serve,https://www.nature.com/articles/s41598-019-56924-8#MOESM1,,,,
+Popcorn,1.800,kg,Ready-made food and other food products n.e.c. (ND),Snacks,Popcorn,https://www.nature.com/articles/s41598-019-56924-8#MOESM1,,,,
+Toilet paper,0.318,kg,,,,https://theecoguide.org/carbon-footprint-household-cleaners,,,,
+Toilet cleaner,0.318,kg,,,,https://theecoguide.org/carbon-footprint-household-cleaners,,,,
+Toilet brush,0.318,kg,,,,https://theecoguide.org/carbon-footprint-household-cleaners,,,,
+Paper towels,0.318,kg,,,,https://theecoguide.org/carbon-footprint-household-cleaners,,,,
+Napkins,0.318,kg,,,,https://theecoguide.org/carbon-footprint-household-cleaners,,,,
+Tissues,0.318,kg,,,,https://theecoguide.org/carbon-footprint-household-cleaners,,,,
+Trash bags,0.318,kg,,,,https://theecoguide.org/carbon-footprint-household-cleaners,,,,
+Ziploc bags,0.318,kg,,,,https://theecoguide.org/carbon-footprint-household-cleaners,,,,
+Laundry detergent,0.318,kg,,,,https://theecoguide.org/carbon-footprint-household-cleaners,,,,
+Stain remover,0.318,kg,,,,https://theecoguide.org/carbon-footprint-household-cleaners,,,,
+Fabric softener,0.318,kg,,,,https://theecoguide.org/carbon-footprint-household-cleaners,,,,
+Dishwashing soap,0.318,kg,,,,https://theecoguide.org/carbon-footprint-household-cleaners,,,,
+Sponges,0.318,kg,,,,https://theecoguide.org/carbon-footprint-household-cleaners,,,,
+Dishwasher detergent,0.318,kg,,,,https://theecoguide.org/carbon-footprint-household-cleaners,,,,
+Glass cleaner like Windex,0.318,kg,,,,https://theecoguide.org/carbon-footprint-household-cleaners,,,,
+Stainless steel cleaner,0.318,kg,,,,https://theecoguide.org/carbon-footprint-household-cleaners,,,,
+Air freshening spray,0.318,kg,,,,https://theecoguide.org/carbon-footprint-household-cleaners,,,,
+All-purpose cleaner like Lysol or Mr. Clean,0.318,kg,,,,https://theecoguide.org/carbon-footprint-household-cleaners,,,,
+Wood floor cleaner (if necessary),0.318,kg,,,,https://theecoguide.org/carbon-footprint-household-cleaners,,,,
+Carpet cleaner,0.318,kg,,,,https://theecoguide.org/carbon-footprint-household-cleaners,,,,
+Plastic wrap,0.318,kg,,,,https://theecoguide.org/carbon-footprint-household-cleaners,,,,
+Aluminum foil,0.318,kg,,,,https://theecoguide.org/carbon-footprint-household-cleaners,,,,
+Wax paper,0.318,kg,,,,https://theecoguide.org/carbon-footprint-household-cleaners,,,,
+Parchment paper,0.318,kg,,,,https://theecoguide.org/carbon-footprint-household-cleaners,,,,
